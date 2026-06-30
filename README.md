@@ -1,4 +1,4 @@
-# C-program-CodeAlpha
+CodeAlpha_BasicCalculator
 
 Basic – Calculator Program
 Write a C program to perform basic arithmetic operations (Addition, Subtraction, Multiplication & Division).
